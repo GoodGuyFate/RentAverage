@@ -66,7 +66,7 @@ ITEM_PIPELINES = {"properties.pipelines.MongoDBPipeline": 300,}
 
 MONGODB_SERVER = 'localhost'
 MONGODB_PORT = 27017
-MONGODB_DB = 'aqarmapRealEstate'
+MONGODB_DB = ''
 MONGODB_COLLECTION = 'prices'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
